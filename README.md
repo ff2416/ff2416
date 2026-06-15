@@ -7,7 +7,7 @@
 
 **More recent projects:**
 
-- [![Code](https://img.shields.io/github/stars/ff2416/AC-Foley-Page.svg?style=social&label=Star)](https://github.com/ff2416/AC-Foley-Page) **[ICLR 2026] AC-Foley**: Reference-audio-guided video-to-audio synthesis with acoustic transfer. [[paper]](https://arxiv.org/abs/2603.15597) [[project]](https://ff2416.github.io/AC-Foley-Page)
+- [![Code](https://img.shields.io/github/stars/ff2416/AC-Foley.svg?style=social&label=Star)](https://github.com/ff2416/AC-Foley) **[ICLR 2026] AC-Foley**: Reference-audio-guided video-to-audio synthesis with acoustic transfer. [[paper]](https://arxiv.org/abs/2603.15597) [[project]](https://ff2416.github.io/AC-Foley-Page)
 
 - [![Code](https://img.shields.io/github/stars/VideoVerses/AnimationBench.svg?style=social&label=Star)](https://github.com/VideoVerses/AnimationBench) **AnimationBench**: A benchmark for evaluating character-centric animation capabilities of video models. [[paper]](https://arxiv.org/abs/2604.15299)
 
