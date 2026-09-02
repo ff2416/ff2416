@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🤗 Hello! I am Pengjun Fang. Nice to meet you!  
-👨‍💻 I am an incoming MPhil student in Computer Science at [HKUST](https://hkust.edu.hk), advised by Prof. [Qifeng Chen](https://cqf.io/).  
+👨‍💻 I am a MPhil student in Computer Science at [HKUST](https://hkust.edu.hk), advised by Prof. [Qifeng Chen](https://cqf.io/).  
 👨‍💻 My research focuses on generative AI, in particular, **multimodal generation**, **video-to-audio synthesis**, and **controllable video generation**.  
 📫 How to reach me: [pfangaf@connect.ust.hk](mailto:pfangaf@connect.ust.hk)  
 
