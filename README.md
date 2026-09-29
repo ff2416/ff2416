@@ -15,4 +15,4 @@
 
 - [![Code](https://img.shields.io/github/stars/VideoVerses/VideoTuna.svg?style=social&label=Star)](https://github.com/VideoVerses/VideoTuna) **VideoTuna**: An open-source codebase for text-to-video, image-to-video, and text-to-image generation.
 
-For more of my generative AI projects and publications, please check my [personal webpage](https://pengjunfang.lovable.app/) and [Google Scholar](https://scholar.google.com/citations?user=R3pE-0EAAAAJ).
+For more of my generative AI projects and publications, please check my [personal webpage](https://pengjunfang.vercel.app/) and [Google Scholar](https://scholar.google.com/citations?user=R3pE-0EAAAAJ).
